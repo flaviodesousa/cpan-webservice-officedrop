@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WebService-OfficeDrop.t
+lib/WebService/OfficeDrop.pm
